@@ -1,6 +1,6 @@
 # Structuring NPS for Decision Making Trough Clustering Methods
 
-**Supervised Machine Learning**
+**Unsupervised Machine Learning**
 
 **About the files:**
 
