@@ -3,6 +3,8 @@
 A good marketing strategy when well planned and executed can make a company devolp it's competitive. Based on this, that study analyzed the nutritional basis on 
 McDonald's menu with the focus of selecting a certain number of products that represented the widest possible audience to enter commercial in prime time.
 
+**Language: R**
+
 **About the files:**
 
 - Anaex_Cluster_Mcdonald.R -> Analyses and code of all data
