@@ -7,10 +7,10 @@ Cluster analysis on satisfaction survey focused on fostering insights for decisi
 
 **About the files:**
 
-Cluster Output.csv -> Database extract from the analyses by clustering and PCA
+- Cluster Output.csv -> Database extract from the analyses by clustering and PCA
 
-Customer Data.csv -> Database original
+- Customer Data.csv -> Database original
 
-Dashboard_Cluster_NPS.pbix -> Dashboard created for the business intelligence and insights
+- Dashboard_Cluster_NPS.pbix -> Dashboard created for the business intelligence and insights
 
-K-means e PCA.ipynb -> Analyses and codes of all data
+- K-means e PCA.ipynb -> Analyses and codes of all data
