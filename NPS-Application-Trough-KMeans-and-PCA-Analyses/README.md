@@ -1,6 +1,6 @@
 # Structuring NPS for Decision Making Trough Clustering Methods
 
-**Language: R**
+**Language: Python**
 
 Cluster analysis on satisfaction survey focused on fostering insights for decision making and a NPS structure.
 
